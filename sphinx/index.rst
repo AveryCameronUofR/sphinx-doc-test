@@ -6,10 +6,13 @@
 Sphinx Doc Test!
 ========================================================
 
+Sample description of the project. 
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
+   summary
    code
 
 
