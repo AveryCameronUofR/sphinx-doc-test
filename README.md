@@ -1,2 +1,2 @@
 # sphinx-doc-test
-Test repo to use sphinx to document python code and host documentation
+Test repo to use sphinx to document python code and host documentation on GitHub Pages
